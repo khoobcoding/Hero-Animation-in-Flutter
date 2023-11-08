@@ -9,7 +9,7 @@ class HeroApp extends StatefulWidget {
 
 class _HeroAppState extends State<HeroApp> {
   final imagespath = [
-    'assets/img1.png',
+    'assets/img1.png', //!  Here is your image path 
     'assets/img2.png',
     'assets/img3.png',
     'assets/img4.png',
